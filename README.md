@@ -6,7 +6,7 @@
 
 ![Homedeck in the Large slot with sample data](docs/images/hero.png)
 
-**[⬇ Download the latest version](https://github.com/KaelanTesseract/homedeck-edge/releases/latest)**
+**[⬇ Download the latest version](https://github.com/KaelanTesseract/homedeck-edge/releases/latest)** · [Project page](https://dennis-guse.de/en/projects/homedeck-edge.html)
 
 ## Features
 
