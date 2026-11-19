@@ -1,0 +1,40 @@
+{
+  "en": {
+    "translation": {
+      "Homedeck": "Homedeck",
+      "Home Assistant Address": "Home Assistant address",
+      "Long-Lived Access Token": "Long-lived access token",
+      "Entity IDs (comma-separated)": "Entity IDs (comma-separated)",
+      "Touch Control": "Touch control",
+      "Connection Status Bar": "Connection status bar",
+      "Create the token in Home Assistant under Profile, Security. Example entities: light.kitchen, sensor.living_room_temperature. Tap toggles, a long press opens dimming and temperature controls.": "Create the token in Home Assistant under Profile, Security. Example entities: light.kitchen, sensor.living_room_temperature. Tap toggles, a long press opens dimming and temperature controls.",
+      "Widget Personalization": "Widget Personalization",
+      "Text Color": "Text color",
+      "Accent Color": "Accent color",
+      "Background Color": "Background color",
+      "Background Image": "Background image",
+      "Background Brightness": "Background brightness",
+      "Glass Blur": "Glass blur",
+      "Background Transparency": "Background transparency"
+    }
+  },
+  "de": {
+    "translation": {
+      "Homedeck": "Homedeck",
+      "Home Assistant Address": "Home-Assistant-Adresse",
+      "Long-Lived Access Token": "Langlebiges Zugriffstoken",
+      "Entity IDs (comma-separated)": "Entitäts-IDs (durch Komma getrennt)",
+      "Touch Control": "Touch-Bedienung",
+      "Connection Status Bar": "Verbindungsleiste",
+      "Create the token in Home Assistant under Profile, Security. Example entities: light.kitchen, sensor.living_room_temperature. Tap toggles, a long press opens dimming and temperature controls.": "Das Token erstellst du in Home Assistant unter Profil, Sicherheit. Beispiel-Entitäten: light.kueche, sensor.wohnzimmer_temperatur. Antippen schaltet, langes Drücken öffnet Dimmen und Temperatur.",
+      "Widget Personalization": "Widget-Personalisierung",
+      "Text Color": "Textfarbe",
+      "Accent Color": "Akzentfarbe",
+      "Background Color": "Hintergrundfarbe",
+      "Background Image": "Hintergrundbild",
+      "Background Brightness": "Hintergrundhelligkeit",
+      "Glass Blur": "Glas-Unschärfe",
+      "Background Transparency": "Hintergrundtransparenz"
+    }
+  }
+}

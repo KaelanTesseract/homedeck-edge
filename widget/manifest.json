@@ -1,0 +1,25 @@
+{
+  "author": "KaelanTesseract",
+  "id": "io.github.kaelantesseract.homedeckedge",
+  "name": "Homedeck",
+  "description": "Your own Home Assistant entities as live tiles: lights and switches light up when on, sensors show their units, tap to toggle, long press to dim lights and set heating. Talks directly to your own server with a long-lived token.",
+  "version": "0.9.3",
+  "preview_icon": "resources/icon.svg",
+  "min_app_version": "5.52",
+  "min_framework_version": "1.9.0",
+  "os": [
+    {
+      "platform": "windows"
+    }
+  ],
+  "supported_devices": [
+    {
+      "type": "dashboard_lcd"
+    }
+  ],
+  "interactive": true,
+  "permissions": [
+    { "type": "url", "domain": "any" },
+    { "type": "url", "domain": "localhost", "port": 8123 }
+  ]
+}
